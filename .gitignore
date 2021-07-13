@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+helloWorld/.idea/helloWorld.iml
+helloWorld/.idea/inspectionProfiles/profiles_settings.xml
+helloWorld/.idea/misc.xml
+helloWorld/.idea/vcs.xml
+helloWorld/.idea/workspace.xml
+helloWorld/.idea/modules.xml
