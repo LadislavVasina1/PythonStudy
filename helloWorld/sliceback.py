@@ -19,11 +19,11 @@ print(lastEightReverse)
 #************************************************************************************#
 #                            ### PYTHON IDIOMS ###                                   #
 #************************************************************************************#
-backwards = letters[::-1]  # Python reverse idiom. Use this to reverse string.
+backwards = letters[::-1]   # Python reverse idiom. Use this to reverse string.
 print(backwards)
 
-lastXChars = letters[-4:]  # Printing last X characters
+lastXChars = letters[-4:]   # Printing last X characters
 print(lastXChars)
 
-getFirstChar = letters[:1] # Printing first character. You can use letters[0] but if it would be empty code will crash
+getFirstChar = letters[:1]  # Printing first character. You can use letters[0] but if it would be empty code will crash
 print(getFirstChar)
