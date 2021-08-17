@@ -1,6 +1,4 @@
-# activity = input("What would you like to do today? \n")
-# 
-# if "cinema" not in activity.casefold():
-#     print("But I want to go to the cinema.")
+activity = input("What would you like to do today? \n")
 
-for i in range()
+if "cinema" not in activity.casefold():
+    print("But I want to go to the cinema.")
