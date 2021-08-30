@@ -19,7 +19,7 @@ for meal in menu:
 for meal in menu:
     for item in meal:
         if item != "spam":
-            print(item)
+            print(item, end=" ")
     print()
 
 # for i in range(0, len(menu)):
